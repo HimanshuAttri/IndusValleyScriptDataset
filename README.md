@@ -7,8 +7,9 @@ This name is chosen for its clarity and searchability, incorporating keywords li
 Contents
 
 /images/: A folder containing 418 PNG files, each representing a unique Indus Valley script character, named 1.png to 418.png.
-![image](https://github.com/user-attachments/assets/e9a52dfa-697f-451f-b2f9-14e8b6ea37d0)
-![Screenshot from 2025-07-07 18-42-56](https://github.com/user-attachments/assets/f161bbea-0c19-4924-a963-d120e4e8f0e1)
+
+![image](https://github.com/user-attachments/assets/fa7917f7-a503-4529-ba19-7a5d8af2871f)
+
 
 
 Usage
